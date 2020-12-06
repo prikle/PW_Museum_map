@@ -31,7 +31,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"music\/test1.mp3"
+                 "value":"https:\/\/prikle.github.io\/PW_Museum_map\/music\/test1.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
