@@ -30,7 +30,7 @@
          "properties":[
                 {
                  "name":"playAudio",
-                 "type":"string",
+                 "type":"file",
                  "value":"https:\/\/prikle.github.io\/PW_Museum_map\/music\/test1.mp3"
                 }],
          "type":"tilelayer",
