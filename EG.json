@@ -113,7 +113,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"OG1.json#StartStiege1"
                 }],
@@ -131,7 +131,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"OG1.json#StartStiege2"
                 }],
@@ -149,7 +149,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"OG1.json#StartStiege3"
                 }],
@@ -167,7 +167,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"OG1.json#StartStiege4"
                 }],
