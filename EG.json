@@ -31,7 +31,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.eu\/de\/raeume\/sternenkueche\/"
+                 "value":"https:\/\/museum-map-info.prikle.eu\/de\/eg\/sternenkueche\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,7 +85,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.eu\/de\/raeume\/easterhegg2019\/"
+                 "value":"https:\/\/museum-map-info.prikle.eu\/de\/eg\/easterhegg2019\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,7 +103,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.eu\/de\/raeume\/metalab\/"
+                 "value":"https:\/\/museum-map-info.prikle.eu\/de\/eg\/metalab\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -121,7 +121,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.eu\/de\/raeume\/govcamp\/"
+                 "value":"https:\/\/museum-map-info.prikle.eu\/de\/eg\/govcamp\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -175,7 +175,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.eu\/de\/raeume\/digitalcourage\/"
+                 "value":"https:\/\/museum-map-info.prikle.eu\/de\/eg\/digitalcourage\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -193,7 +193,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.eu\/de\/raeume\/vkm\/"
+                 "value":"https:\/\/museum-map-info.prikle.eu\/de\/eg\/vkm\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -211,7 +211,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.eu\/de\/raeume\/shop\/"
+                 "value":"https:\/\/museum-map-info.prikle.eu\/de\/eg\/shop\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -229,7 +229,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.eu\/de\/raeume\/cmsvie\/"
+                 "value":"https:\/\/museum-map-info.prikle.eu\/de\/eg\/cmsvie\/"
                 }],
          "type":"tilelayer",
          "visible":true,
