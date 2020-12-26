@@ -67,7 +67,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tox.chat\/"
+                 "value":"https:\/\/toktok.ltd\/"
                 }],
          "type":"tilelayer",
          "visible":true,
