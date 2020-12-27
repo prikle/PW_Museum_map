@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/freedom.json#start_privacyweek}\\"
+                 "value":"{<lobby>\/maps\/freedom.json#start_privacyweek}"
                 }],
          "type":"tilelayer",
          "visible":true,
