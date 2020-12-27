@@ -283,7 +283,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-south.json#start_metalab}"
+                 "value":"{<metalab>\/map.json#start_pw}"
                 }],
          "type":"tilelayer",
          "visible":true,
