@@ -49,7 +49,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"EG.json#StartStiege1"
+                 "value":"main.json#StartStiege1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,7 +85,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"EG.json#StartStiege2"
+                 "value":"main.json#StartStiege2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -121,7 +121,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"EG.json#StartStiege3"
+                 "value":"main.json#StartStiege3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -157,7 +157,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"EG.json#StartStiege4"
+                 "value":"main.json#StartStiege4"
                 }],
          "type":"tilelayer",
          "visible":true,
