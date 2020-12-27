@@ -265,7 +265,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/media.ccc.de\/b\/conferences\/privacyweek"
+                 "value":"https:\/\/map-info.privacyweek.at\/b\/conferences\/privacyweek"
                 }],
          "type":"tilelayer",
          "visible":true,
