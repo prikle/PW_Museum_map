@@ -317,7 +317,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"{<metalab>\/map.json#start_pw}"
                 }],
@@ -353,7 +353,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"{<tox>\/main.json}"
                 }],
