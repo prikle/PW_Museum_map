@@ -4747,7 +4747,7 @@
         {
          "columns":15,
          "firstgid":6667,
-         "image":"..\/VKM-Workadventure\/cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"tiles\/cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":480,
          "margin":0,
@@ -6739,7 +6739,7 @@
         {
          "columns":12,
          "firstgid":8662,
-         "image":"..\/VKM-Workadventure\/W\u00e4nde_T\u00fcren_Fenster_v2.png",
+         "image":"tiles\/W\u00e4nde_T\u00fcren_Fenster_v2.png",
          "imageheight":2048,
          "imagewidth":384,
          "margin":0,
@@ -7806,7 +7806,7 @@
         {
          "columns":16,
          "firstgid":9430,
-         "image":"..\/VKM-Workadventure\/d4hnexf-322e4495-bf5d-4bf1-ad9e-f1715aff9217.png",
+         "image":"tiles\/d4hnexf-322e4495-bf5d-4bf1-ad9e-f1715aff9217.png",
          "imageheight":7000,
          "imagewidth":512,
          "margin":0,
@@ -7820,7 +7820,7 @@
         {
          "columns":8,
          "firstgid":12918,
-         "image":"..\/VKM-Workadventure\/tiles\/rpgm_xp_tiles___seaside_forest_by_bbrtki_d25fglr.png",
+         "image":"tiles\/rpgm_xp_tiles___seaside_forest_by_bbrtki_d25fglr.png",
          "imageheight":7488,
          "imagewidth":256,
          "margin":0,
