@@ -324,7 +324,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"pw21\/metalab\/main.json"
+                 "value":"https:\/\/world.privacyweek.at\/@\/pw21\/metalab\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -5025,6 +5025,30 @@
                  "animation":[
                         {
                          "duration":300,
+                         "tileid":258
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":266
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":274
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":282
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":282
+                        }],
+                 "id":258
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":300,
                          "tileid":288
                         }, 
                         {
@@ -5080,6 +5104,26 @@
                          "tileid":314
                         }],
                  "id":290
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":300,
+                         "tileid":291
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":299
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":307
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":315
+                        }],
+                 "id":291
                 }],
          "tilewidth":32
         }],
