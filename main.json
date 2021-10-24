@@ -324,7 +324,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<metalab>\/map.json#start_pw}"
+                 "value":"metalab\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
