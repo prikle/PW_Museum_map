@@ -168,7 +168,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/map-info.privacyweek.at\/de\/telefon1"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/c3w\/"
                 }],
          "type":"tilelayer",
          "visible":true,
