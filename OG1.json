@@ -230,6 +230,21 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/map-info.privacyweek.at\/de\/og1\/scheideweg\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Ausstellungsbeschreibung zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -248,6 +263,21 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/map-info.privacyweek.at\/de\/auge\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Ausstellungsbeschreibung zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -266,6 +296,21 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/map-info.privacyweek.at\/de\/og1\/technik\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Ausstellungsbeschreibung zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -284,6 +329,21 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/map-info.privacyweek.at\/de\/og1\/translate\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Ausstellungsbeschreibung zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -302,6 +362,21 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/map-info.privacyweek.at\/de\/og1\/stickerdesk\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Ausstellungsbeschreibung zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -320,6 +395,21 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/stream.privacyweek.at\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Streaming Seite zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -338,6 +428,21 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Pausenraum"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0Raum Jitsi zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
