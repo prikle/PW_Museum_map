@@ -197,6 +197,21 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/workshops.privacyweek.at\/b\/info"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"camera;microphone"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE den Infodesk zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
