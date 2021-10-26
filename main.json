@@ -201,6 +201,21 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/map-info.privacyweek.at\/de\/welcome\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0Infos zu \u00f6ffenen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -219,6 +234,21 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/map-info.privacyweek.at\/de\/eg\/sternenkueche\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Ausstellungsbeschreibung zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -237,6 +267,21 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/map-info.privacyweek.at\/de\/c3w\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Ausstellungsbeschreibung zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -267,6 +312,21 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/map-info.privacyweek.at\/de\/eg\/easterhegg2019\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Ausstellungsbeschreibung zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -285,6 +345,21 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/map-info.privacyweek.at\/de\/eg\/metalab\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Ausstellungsbeschreibung zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -303,6 +378,21 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/map-info.privacyweek.at\/de\/eg\/govcamp\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Ausstellungsbeschreibung zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -321,6 +411,21 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/thisisnota.cloud\/gallery\/2020_accept-cookies\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Ausstellungsbeschreibung zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -339,6 +444,21 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/map-info.privacyweek.at\/de\/eg\/vkm\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Ausstellungsbeschreibung zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -357,6 +477,21 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/map-info.privacyweek.at\/de\/eg\/shop\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Ausstellungsbeschreibung zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -375,6 +510,21 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/map-info.privacyweek.at\/de\/eg\/cmsvie\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0die Ausstellungsbeschreibung zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -393,6 +543,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"sternenkueche"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0den Raum Jitsi zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -411,6 +571,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"workshop0"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0den Raum Jitsi zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -429,6 +599,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"workshop1"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE um\u00a0den Raum Jitsi zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
