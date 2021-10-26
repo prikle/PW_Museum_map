@@ -425,22 +425,22 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{ \"startWithAudioMuted\": true },{ \"startWithVideoMuted\": true }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Pausenraum"
                 }, 
                 {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":""
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
+                 "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage",
+                 "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"LEERTASTE um\u00a0Raum Jitsi zu \u00f6ffnen"
                 }],
