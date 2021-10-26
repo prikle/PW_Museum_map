@@ -58,6 +58,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioVolume",
+                 "type":"string",
+                 "value":"0.4"
+                }, 
+                {
                  "name":"playAudioLoop",
                  "type":"string",
                  "value":"sounds\/Melancholy_Piano_Theme.mp3"
@@ -75,6 +80,11 @@
          "name":"Audio_Toilettenspuelung",
          "opacity":1,
          "properties":[
+                {
+                 "name":"audioVolume",
+                 "type":"string",
+                 "value":"0.4"
+                }, 
                 {
                  "name":"playAudioLoop",
                  "type":"string",
@@ -94,6 +104,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioVolume",
+                 "type":"string",
+                 "value":"0.4"
+                }, 
+                {
                  "name":"playAudioLoop",
                  "type":"string",
                  "value":"sounds\/Katze miaut 3 ungeduldig.mp3"
@@ -111,6 +126,11 @@
          "name":"Audio_Stra\u00dfenatmosphaere",
          "opacity":1,
          "properties":[
+                {
+                 "name":"audioVolume",
+                 "type":"string",
+                 "value":"0.4"
+                }, 
                 {
                  "name":"playAudioLoop",
                  "type":"string",
@@ -132,7 +152,7 @@
                 {
                  "name":"audioVolume",
                  "type":"string",
-                 "value":"0.5"
+                 "value":"0.1"
                 }, 
                 {
                  "name":"playAudioLoop",
