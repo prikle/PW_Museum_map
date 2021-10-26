@@ -150,12 +150,17 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"audioVolume",
                  "type":"string",
                  "value":"0.1"
                 }, 
                 {
-                 "name":"playAudioLoop",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"sounds\/Privacy-Week-2021-Loop.mp3"
                 }],
