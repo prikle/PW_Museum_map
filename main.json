@@ -58,12 +58,17 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"audioVolume",
-                 "type":"string",
-                 "value":"0.4"
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
                 }, 
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioVolume",
+                 "type":"string",
+                 "value":"0.1"
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"sounds\/Melancholy_Piano_Theme.mp3"
                 }],
@@ -81,12 +86,17 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"audioVolume",
-                 "type":"string",
-                 "value":"0.4"
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":false
                 }, 
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioVolume",
+                 "type":"string",
+                 "value":"0.1"
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"sounds\/Toilettenspuelung.mp3"
                 }],
@@ -104,12 +114,17 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"audioVolume",
-                 "type":"string",
-                 "value":"0.4"
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":false
                 }, 
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioVolume",
+                 "type":"string",
+                 "value":"0.3"
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"sounds\/Katze miaut 3 ungeduldig.mp3"
                 }],
@@ -127,12 +142,17 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"audioVolume",
-                 "type":"string",
-                 "value":"0.4"
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
                 }, 
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioVolume",
+                 "type":"string",
+                 "value":"0.1"
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"sounds\/Stra\u00dfenatmosphaere.mp3"
                 }],
