@@ -6842,7 +6842,7 @@
         {
          "columns":7,
          "firstgid":14269,
-         "image":"..\/aaaaaaaaaaaa_map\/tiles\/minideko.png",
+         "image":"tiles\/minideko.png",
          "imageheight":416,
          "imagewidth":224,
          "margin":0,
@@ -6855,7 +6855,7 @@
         {
          "columns":16,
          "firstgid":14360,
-         "image":"..\/aaaaaaaaaaaa_map\/tiles\/rc3-mullana-neon-signs.png",
+         "image":"tiles\/rc3-mullana-neon-signs.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -6868,7 +6868,7 @@
         {
          "columns":16,
          "firstgid":14616,
-         "image":"..\/aaaaaaaaaaaa_map\/tiles\/upholstery-recolors_bluecarrot16_ccyby4.png",
+         "image":"tiles\/upholstery-recolors_bluecarrot16_ccyby4.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
