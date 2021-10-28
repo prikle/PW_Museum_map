@@ -233,7 +233,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/map-info.privacyweek.at\/de\/true-facts\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/true-facts\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -299,7 +299,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/map-info.privacyweek.at\/de\/die-daten-die-ich-rief\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/die-daten-die-ich-rief\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
