@@ -1258,7 +1258,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"sternenkueche"
+                 "value":"dome"
                 }, 
                 {
                  "name":"jitsiTrigger",
