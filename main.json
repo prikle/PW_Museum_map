@@ -77,7 +77,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/Melancholy_Piano_Theme.mp"
+                 "value":"sounds\/Melancholy_Piano_Theme.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
