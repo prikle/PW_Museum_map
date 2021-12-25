@@ -236,7 +236,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/map-info.privacyweek.at\/de\/og1\/scheideweg\/"
+                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/og1\/scheideweg\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -269,7 +269,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/map-info.privacyweek.at\/de\/auge\/"
+                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/auge\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -302,7 +302,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/map-info.privacyweek.at\/de\/og1\/technik\/"
+                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/og1\/technik\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -335,7 +335,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/map-info.privacyweek.at\/de\/og1\/translate\/"
+                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/og1\/translate\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -368,7 +368,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/map-info.privacyweek.at\/de\/og1\/stickerdesk\/"
+                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/og1\/stickerdesk\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
