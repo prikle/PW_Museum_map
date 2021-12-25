@@ -200,7 +200,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/ueberwacht-und-ausgesp%C3%A4ht\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/ueberwacht-und-ausgesp%C3%A4ht\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -233,7 +233,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/smart-lies-alles-smart\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/smart-lies-alles-smart\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -266,7 +266,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/toedlicher-crash\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/toedlicher-crash\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -299,7 +299,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/trans-posthumanismus\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/trans-posthumanismus\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -332,7 +332,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/roboterethik\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/roboterethik\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -365,7 +365,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/privatrecht\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/privatrecht\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -398,7 +398,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/informantenschutz\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/informantenschutz\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -431,7 +431,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/hilfe-ich-habe-meine-privatsphaere-aufgegeben\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/hilfe-ich-habe-meine-privatsphaere-aufgegeben\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -464,7 +464,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/digitale-recherche\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/digitale-recherche\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -497,7 +497,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/der-weg-nach-wigan-pier\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/der-weg-nach-wigan-pier\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -530,7 +530,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/der-mensch-im-digitalen-zeitalter\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/der-mensch-im-digitalen-zeitalter\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -563,7 +563,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/change-the-game\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/change-the-game\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -596,7 +596,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/dann-haben-die-halt-meine-daten\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/dann-haben-die-halt-meine-daten\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -629,7 +629,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/1984\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/1984\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -662,7 +662,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/accessibility-for-everyone\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/accessibility-for-everyone\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -695,7 +695,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/true-facts\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/true-facts\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -728,7 +728,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/fake-facts\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/fake-facts\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -761,7 +761,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/die-daten-die-ich-rief\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/buecher\/die-daten-die-ich-rief\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -794,7 +794,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/welcome\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/welcome\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -827,7 +827,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/eg\/sternenkueche\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/eg\/sternenkueche\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -860,7 +860,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/c3w\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/c3w\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -905,7 +905,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/eg\/easterhegg2019\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/eg\/easterhegg2019\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -938,7 +938,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/eg\/metalab\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/eg\/metalab\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -971,7 +971,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/eg\/govcamp\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/eg\/govcamp\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -1004,7 +1004,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/leaving-the-infrastructure\/cookies\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/leaving-the-infrastructure\/cookies\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -1037,7 +1037,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/eg\/vkm\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/eg\/vkm\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -1070,7 +1070,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/eg\/shop\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/eg\/shop\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -1103,7 +1103,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/eg\/cmsvie\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/eg\/cmsvie\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -1136,7 +1136,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/eg\/peephole\/"
+                 "value":"https:\/\/map-info.privacyweek.at\/de\/eg\/peephole\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
