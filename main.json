@@ -405,7 +405,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/informantenschutz\/"
+                 "value":"https:\/\/museum-map-info.prikle.dev\/de\/buecher\/informantenschutz"
                 }, 
                 {
                  "name":"openWebsitePolicy",
