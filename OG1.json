@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":41,
  "infinite":false,
  "layers":[
@@ -394,7 +401,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/stream.privacyweek.at\/"
+                 "value":"https:\/\/media.ccc.de\/b\/conferences\/privacyweek"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -558,7 +565,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-up",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -3088,6 +3095,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":74
 }
