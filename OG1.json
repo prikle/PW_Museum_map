@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":41,
  "infinite":false,
  "layers":[
@@ -157,7 +150,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#StartStiege4"
+                 "value":"main.json#StartSteige4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -179,8 +172,8 @@
                 }, 
                 {
                  "name":"audioVolume",
-                 "type":"string",
-                 "value":"0.1"
+                 "type":"float",
+                 "value":0.1
                 }, 
                 {
                  "name":"playAudio",
@@ -204,11 +197,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/workshops.privacyweek.at\/b\/info"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"camera;microphone"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -239,11 +227,6 @@
                  "value":"https:\/\/museum-map-info.prikle.dev\/de\/og1\/scheideweg\/"
                 }, 
                 {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":""
-                }, 
-                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -270,11 +253,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/museum-map-info.prikle.dev\/de\/auge\/"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":""
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -305,11 +283,6 @@
                  "value":"https:\/\/museum-map-info.prikle.dev\/de\/og1\/technik\/"
                 }, 
                 {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":""
-                }, 
-                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -336,11 +309,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/museum-map-info.prikle.dev\/de\/og1\/translate\/"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":""
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -371,11 +339,6 @@
                  "value":"https:\/\/museum-map-info.prikle.dev\/de\/og1\/stickerdesk\/"
                 }, 
                 {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":""
-                }, 
-                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -402,11 +365,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/media.ccc.de\/b\/conferences\/privacyweek"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":""
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -565,7 +523,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-up",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -576,6 +534,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"WTF_v2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"prikle"
+                }],
          "spacing":0,
          "tilecount":768,
          "tileheight":32,
@@ -1553,6 +1517,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"mullana"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1566,6 +1536,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"cert_safety",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"ccc cert"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1579,6 +1555,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-floor-wall",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"mullana"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1592,6 +1574,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"deviantart\/milkian"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1885,6 +1873,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"ccc cert"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -1898,6 +1892,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"PW-Wien_Einrichtung",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Privacyweek"
+                }],
          "spacing":0,
          "tilecount":768,
          "tileheight":32,
@@ -2020,6 +2020,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"upholstery-recolors_bluecarrot16_ccyby4",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"bluecarrot ccby4.0"
+                }],
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
@@ -2033,6 +2039,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"cija_32x32_expansion for Pipoya_CC0",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 cija"
+                }],
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,
@@ -2821,6 +2833,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-objects",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"mullana"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -2834,6 +2852,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"AUGE",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Privacyweek"
+                }],
          "spacing":0,
          "tilecount":81,
          "tileheight":32,
@@ -3088,6 +3112,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"Scheideweg",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Privacyweek"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -3095,6 +3125,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":74
 }
