@@ -1090,7 +1090,7 @@
                 {
                  "name":"bbbTriggerMessage",
                  "type":"string",
-                 "value":"LEERTASTE um\u00a0den Raum Jitsi zu \u00f6ffnen"
+                 "value":"LEERTASTE um\u00a0den BBB Raum zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
