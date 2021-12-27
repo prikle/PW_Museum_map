@@ -1078,17 +1078,17 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"bbbRoom",
                  "type":"string",
-                 "value":"sternenkueche"
+                 "value":"pw-sternenkuche"
                 }, 
                 {
-                 "name":"jitsiTrigger",
+                 "name":"bbbTrigger",
                  "type":"string",
                  "value":"onaction"
                 }, 
                 {
-                 "name":"jitsiTriggerMessage",
+                 "name":"bbbTriggerMessage",
                  "type":"string",
                  "value":"LEERTASTE um\u00a0den Raum Jitsi zu \u00f6ffnen"
                 }],
