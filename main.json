@@ -1080,7 +1080,7 @@
                 {
                  "name":"bbbRoom",
                  "type":"string",
-                 "value":"pw-sternenkuche"
+                 "value":"bbb:\/\/privacyweek\/pw-sternenkuche"
                 }, 
                 {
                  "name":"bbbTrigger",
